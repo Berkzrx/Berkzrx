@@ -23,6 +23,6 @@
   <a href = "mailto:patricio.grange49@gmail.com"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406476486438952/email_icon.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patricio-diniz-7a914a162/" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962408558568288296/linkedin_icon.png" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Berkzrx/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Berkzrx/Berkzrx/blob/output/github-contribution-grid-snake.svg)
  
 </div>
