@@ -1,4 +1,4 @@
-## Olá! Meu nome é Patricio, sou desenhista freelancer e atualmente estudo desenvolvimento Front-end. ✌😁
+<div align="center" font-color="yellow"><h2>Olá! Me chamo Patricio, sou desenhista freelancer e atualmente estudo desenvolvimento Front-end. ✌😁<h2></div>
 <div align="center">
   <a href="https://github.com/Berkzrx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Berkzrx&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-pic" left="20" height="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732645583227191489/962395695220928562/ezgif.com-gif-maker.gif">
   
 <div align="center" style="display: inline_block"><br>
-  <h2>Tecnologias:</h2>
+  <h3>Tecnologias:</h3>
   <img align="center" alt="Patricio-JS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962401418365517854/js_icon.png">
   <img align="center" alt="Patricio-HTML" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962402404907774083/html_icon.png">
   <img align="center" alt="Patricio-CSS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962403371397033984/css_icon.png">
@@ -17,7 +17,7 @@
   
  
 <div align="center"> 
-  <h2>Redes Sociais:</h2>
+  <h3>Redes Sociais:</h3>
   <a href="https://www.youtube.com/channel/UCkTQ-C_VU5QHBjoWNY5y3Tw" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406476276715530/youtube_icon.png" target="_blank"></a>
   <a href="https://www.instagram.com/berkz.art/" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406477656621146/insta_icon.png" target="_blank"></a>
   <a href = "mailto:patricio.grange49@gmail.com"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406476486438952/email_icon.png" target="_blank"></a>
