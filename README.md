@@ -1,4 +1,3 @@
-<div align="center" font-color="yellow"><h2>Olá! Me chamo Patricio, sou desenhista freelancer e atualmente estudo desenvolvimento Front-end. ✌😁<h2></div>
   <img align="center" alt="Rafa-pic" left="20" height="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732645583227191489/962395695220928562/ezgif.com-gif-maker.gif">
 <div align="center">
   <a href="https://github.com/Berkzrx">
