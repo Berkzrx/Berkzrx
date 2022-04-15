@@ -5,8 +5,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkzrx&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-<div align="center" style="display: inline_block"><br>
-  <h3>Tecnologias:</h3>
+<div align="center" style="display:block"><br>
+
+  <h3>💡 Tecnologias:</h3>
   <img align="center" height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962763006280884234/Chaves_png.png">
   <img align="center" alt="Patricio-JS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962401418365517854/js_icon.png">
   <img align="center" alt="Patricio-HTML" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962402404907774083/html_icon.png">
@@ -17,7 +18,7 @@
   
  
 <div align="center"> 
-  <h3>Redes Sociais:</h3>
+  <h3>🌐 Redes Sociais:</h3>
   <img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962763006280884234/Chaves_png.png">
   <a href="https://www.youtube.com/channel/UCkTQ-C_VU5QHBjoWNY5y3Tw" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406476276715530/youtube_icon.png" target="_blank"></a>
   <a href="https://www.instagram.com/berkz.art/" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406477656621146/insta_icon.png" target="_blank"></a>
