@@ -1,4 +1,4 @@
-  <img align="center" alt="Rafa-pic" left="20" height="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732645583227191489/962395695220928562/ezgif.com-gif-maker.gif">
+  <img align="center" alt="Patricio-Diniz.gif" left="20" height="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/732645583227191489/962395695220928562/ezgif.com-gif-maker.gif">
 <div align="center">
   <a href="https://github.com/Berkzrx">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Berkzrx&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
