@@ -7,7 +7,7 @@
   
 <div align="center" style="display:block"><br>
 
-  <h3>💡 Tecnologias:</h3>
+  <h3>👽 Tecnologias:</h3>
   <img align="center" height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962763006280884234/Chaves_png.png">
   <img align="center" alt="Patricio-JS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962401418365517854/js_icon.png">
   <img align="center" alt="Patricio-HTML" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962402404907774083/html_icon.png">
