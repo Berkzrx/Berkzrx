@@ -12,7 +12,7 @@
   <img align="center" alt="Patricio-JS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962401418365517854/js_icon.png">
   <img align="center" alt="Patricio-HTML" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962402404907774083/html_icon.png">
   <img align="center" alt="Patricio-CSS" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/962403371397033984/css_icon.png">
-  <img align="center" alt="Patricio-Node.js" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/971692709494542356/node_icon.png">
+<!--   <img align="center" alt="Patricio-Node.js" height="90" width="90" src="https://cdn.discordapp.com/attachments/732645583227191489/971692709494542356/node_icon.png"> -->
   <img align="center" height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962763414965465098/chaves_2_png.png">
 </div>
   
