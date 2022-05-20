@@ -25,6 +25,7 @@
   <a href="https://www.instagram.com/berkz.art/" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406477656621146/insta_icon.png" target="_blank"></a>
   <a href = "mailto:patricio.grange49@gmail.com"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962406476486438952/email_icon.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patricio-diniz-7a914a162/" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962408558568288296/linkedin_icon.png" target="_blank"></a> 
+  <a href="https://codepen.io/berkzrx" target="_blank"><img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/977247399670087720/codepen_icon.png" target="_blank"></a> 
   <img height="100" src="https://cdn.discordapp.com/attachments/732645583227191489/962763414965465098/chaves_2_png.png">
   </div>
 </div>
